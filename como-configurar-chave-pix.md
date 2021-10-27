@@ -14,7 +14,7 @@ Quer saber como configurar sua chave PIX e aproveitar todas estas vantagens? Nas
 
 ## How to configure PIX key
 
-Para utilizar o PIX, é necessário que você tenha uma chave cadastrada que pode ser:
+To use the PIX, it is necessary you have at least one key configured. The PIX key can be:
 
 - Endereço de e-mail.
 - Número de telefone.
@@ -25,12 +25,12 @@ Follow the instructions to generate a PIX key.
 
 1. In the SMais app, go to **PIX**.
 3. Select **Configure key**.
-4. In the **Key configuration** page, choose one of the 4 key options and follow the instructions.
-- **CPF:** Click **Confirm**.
+4. In the **Key configuration** section, select the key option and follow the instructions of the next steps.
+- **CPF:**  Tap **Confirm**.
 
-- **E-mail or phone number:** If you choose the e-mail or phone options, click **Ok** to receive a 6-digit code via SMS or e-mail. To complete the setup, enter the 6-digit code and click **Confirm**.
+- **E-mail or phone number:** If you choose the e-mail or phone options, tap **Ok** to receive a 6-digit code via SMS or e-mail. To complete the setup, enter the 6-digit code and tap **Confirm**.
 
-- **Random key**: To generate a random key, click **Generate key**. The 6 characters contain letters, numbers and special characters. To complete the configuration, click **Confirm**. 
+- **Random key**: To generate a random key, tap **Generate key**. The 6 characters contain letters, numbers and special characters. To complete the configuration, to **Confirm**. 
 
 When the process be completed, you can use the configured key to make the transactions.
 
