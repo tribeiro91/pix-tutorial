@@ -23,7 +23,7 @@ The Pix has many benefits to the final customer, legal or individual, that are:
 
 The difference from Pix to the others payments instruments such as TED and DOC is the speediness and availability. For example, if you choose to do a TED at 10PM of a Monday, the fund transferred will be available only on Thuesday at 7AM. In case of Pix, if you choose to send an amount to someone, the amount will be available after 5 seconds maximum.
 
-## Pix configuration
+## Management
 
 To use the PIX in SMais application, it is necessary you have at least one key configured. The PIX key can be:
 
@@ -34,17 +34,17 @@ To use the PIX in SMais application, it is necessary you have at least one key c
 
 In the following guide, you can check out the step-by-step to configure a PIX key.
 
-### How to configure the Pix key
+### Pix key registration
 
 1. In the SMais app, go to **Pix** section.
 3. Tap **Configure key**.
 4. From the **Key configuration**, select the key option and follow the instructions of the next steps.
-- **CPF:**  At the bottom to complete the configuration, tap **Confirm**. 
+- **CPF:**  At the bottom to complete the registration, tap **Confirm**. 
  
-   *NOTE*: The **CPF** option does not extend the process with the sending of code because the application retrieves document number from your account registration.
+   *NOTE*: The **CPF** option does not extend the process with the sending of code because the application retrieves document number from your account information.
    
 - **Email or phone number:** At the bottom, tap **Send code** to receive a 6-digit code via SMS or e-mail. To complete the configuration, enter the 6-digit code and tap **Confirm**.
-- **Random key**: At the bottom, tap **Generate key**. The app will generate a key with 6 characters with letters, numbers and special characters. To complete the configuration, tap **Confirm**. 
+- **Random key**: At the bottom, tap **Generate key**. The app will generate a key with 6 characters with letters, numbers and special characters. To complete the registration, tap **Confirm**. 
 
 
 
