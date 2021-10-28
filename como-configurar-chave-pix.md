@@ -50,6 +50,6 @@ In the following guide, you can check out the step-by-step to configure a PIX ke
 
 When the process completes, you can use the configured key to transfer the funds.
 
-*NOTE:* The SMais application only configure Pix key values not used yet in any payment institution. If the key already exist, the application does not complete the process and shows the message "Pix key value is already used in other payment institution".
+*NOTE:* The SMais application only configure Pix key values not used yet in any payment service. If the key already exists, the application does not complete the process and shows the message "Pix key value is already used in other payment institution".
 
 
