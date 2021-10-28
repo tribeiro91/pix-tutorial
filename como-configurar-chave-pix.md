@@ -14,12 +14,14 @@ The PIX is the most recent Brazilian instant payment (IP) scheme. With a configu
 
 ### Benefits
 
-Because of the many benefits, the PIX can substitute for TED and DOC transfers schemes in the future. The benefits of PIX are:
+The Pix has many benefits to the final customer, legal or individual, that are:
 
 - Full-time availability.
 - Transfer the funds in seconds.
 - Tranfer funds from legal enitity to the individual person. Vice-versa. 
 - No fees for individual person and low fee for legal entities.
+
+The difference from Pix to the others payments instruments such as TED and DOC is the speediness and availability. For example, if you choose to do a TED at 10PM of a Monday, the fund transferred will be available only on Thuesday at 7AM. In case of Pix, if you choose to send an amount to someone, the amount will be available after 5 seconds maximum.
 
 ## Pix configuration
 
