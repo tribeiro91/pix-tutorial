@@ -5,8 +5,8 @@
     - Getting started 
       - Process
       - Benefits
-   - Configuration
-      - How to configure the Pix key
+   - Management
+      - Pix key registration
 
 # Notes
 
