@@ -32,7 +32,7 @@ To use the PIX in SMais application, it is necessary you have at least one key c
 
 In the following guide, you can check out the step-by-step to configure a PIX key.
 
-### How to configure Pix key
+### How to configure the Pix key
 
 1. In the SMais app, go to **Pix** section.
 3. Tap **Configure key**.
